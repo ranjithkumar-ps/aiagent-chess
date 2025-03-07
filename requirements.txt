@@ -3,3 +3,4 @@ chess
 autogen
 cairosvg
 pillow
+ag2[openai]
